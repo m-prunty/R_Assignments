@@ -62,8 +62,8 @@ Q4.1.lm:Yi= 0+ 1Xi+ ei, ei~ NID(0, 2)
 Q4.2.lm:log(Yi) = 0+ 1Xi+ ei, ei~ NID(0, 2)
 Q4.3.lm:log(Yi) = 0+ 1log(Xi) + ei, ei~ NID(0, 2)
 
-**(a)**Provide appropriate diagnostic plots for each model. Comment on each of the diagnostic plots. (3 x 12 marks)
+**(a)** Provide appropriate diagnostic plots for each model. Comment on each of the diagnostic plots. (3 x 12 marks)
 
-**(b)**Which of the models would you choose for these data? Explain. (6 marks)
+**(b)** Which of the models would you choose for these data? Explain. (6 marks)
 
-**(c)**Explain why these particular transformations above (logarithmic) would have been considered.(8 marks)
+**(c)** Explain why these particular transformations above (logarithmic) would have been considered.(8 marks)
